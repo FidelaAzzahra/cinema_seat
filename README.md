@@ -1,4 +1,4 @@
-# cinema_seat
+<h3>Cinema Seat</h3>
 Mata kuliah Pemrograman Berbasis Web (PBW) Semester 1 
 
 - Fitur : fitur untuk memilih film, fitur untuk memilih tempat duduk, fitur untuk menentukan total harga berdasarkan jumlah tempat duduk yang dipilih
